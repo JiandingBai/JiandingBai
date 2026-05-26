@@ -17,7 +17,7 @@ I'm Jianding — a fourth-year CS student at UBC, completing it as a second degr
 |  |  |
 |--------|-------------|
 | **[Hearth](https://github.com/JiandingBai/youCode2026)** | Privacy-first, on-device multilingual voice translation PWA for women's shelter staff and residents. 🏆 1st place at youCode 2026 (SAP & Amazon sponsored). Built with Next.js, FastAPI, Cohere Tiny Aya, and OpenAI Whisper. |
-| **[InsightUBC](https://github.com/JiandingBai/InsightUBC)** | Full-stack course and room data platform with 20 REST endpoints, 64,000+ searchable records, and 93% test coverage across 261 tests. |
+| **InsightUBC** | Full-stack course and room data platform with 20 REST endpoints, 64,000+ searchable records, and 93% test coverage across 261 tests. |
 | **[StudyNest](https://studynest-celine.netlify.app/workspace)** | Customizable widget-based focus workspace. 🥈 Runner-up at HCI Course Demo Showcase. Built with React, TypeScript, and Tailwind. |
 | **[Mentra](https://mentra-app.onrender.com)** | AI-powered journaling app with reflective feedback via Gemini 2.0 Flash. Built at cmd-f 2025. |
 
