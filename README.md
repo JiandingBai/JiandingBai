@@ -2,19 +2,19 @@
 
 I'm Jianding — a fourth-year CS student at UBC, completing it as a second degree after studying philosophy and working in public administration. I kept seeing how profoundly technology shapes the systems that matter to people, and I wanted to be someone who understands them deeply and builds them thoughtfully.
 
-I'm currently working as a Full Stack Developer at UBC, and I care deeply about building things that actually work well for the people using them.
-
 ---
 
 ### What I'm Working On 🌱
 
 - Continuing to develop **[Hearth](https://github.com/JiandingBai/youCode2026)** through UBC's Diversity in CS Project Hub, with the goal of real deployment at women's shelters
+- Working as a Full Stack Developer at UBC's School of Population and Public Health
 - Exploring AWS and cloud infrastructure
 - Exploring ML and AI safety through ARENA and UBC AI Safety
 
 ---
 
 ### Projects 💻
+|  |  |
 |--------|-------------|
 | **[Hearth](https://github.com/JiandingBai/youCode2026)** | Privacy-first, on-device multilingual voice translation PWA for women's shelter staff and residents. 🏆 1st place at youCode 2026 (SAP & Amazon sponsored). Built with Next.js, FastAPI, Cohere Tiny Aya, and OpenAI Whisper. |
 | **[InsightUBC](https://github.com/JiandingBai/InsightUBC)** | Full-stack course and room data platform with 20 REST endpoints, 64,000+ searchable records, and 93% test coverage across 261 tests. |
