@@ -49,4 +49,4 @@ I'm Jianding — a fourth-year CS student at UBC, completing it as a second degr
 
 ### A Bit More About Me ✨
 
-Outside of coding, I enjoy running, cooking, blogging, and exploring hidden gems in the city and nature. I speak Mandarin and Chongqing dialect fluently and Cantonese effectively, and am learning Japanese and Spanish sporadically.
+Outside of coding, I enjoy running, cooking, blogging, and exploring hidden gems in the city and nature. I speak English, Mandarin and Chongqing dialect fluently and Cantonese effectively, and am learning Japanese and Spanish sporadically.
